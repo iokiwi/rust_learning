@@ -1,0 +1,4 @@
+people:
+  - name: "Simon"
+    age: 28
+    worth: 1000.00
